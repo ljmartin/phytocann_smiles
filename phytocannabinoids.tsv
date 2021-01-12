@@ -1,3 +1,4 @@
+smiles	name
 CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O	Tetrahydrocannabinol (THC)
 CCCCCC1=CC2=C(C(O)=C1C(O)=O)[C@@H]3C=C(C)CC[C@H]3C(C)(C)O2	d9-THC Acid A
 CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1C(=O)O)(C)C)C)O	d9-THC Acid B
