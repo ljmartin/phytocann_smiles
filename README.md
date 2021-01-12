@@ -5,5 +5,6 @@ These were transcribed into ChemDraw by hand and then converted to SMILES codes.
 
 *ElSohly, Mahmoud, and Waseem Gul. "Constituents of cannabis sativa." Handbook of cannabis 3 (2014): 1093.
 
+If you use these in scientific research and need to cite them, you can use the DOI: [![DOI](https://zenodo.org/badge/328855986.svg)](https://zenodo.org/badge/latestdoi/328855986)
 
 ![the phytos](./phytos.svg)
