@@ -7,4 +7,4 @@ These were transcribed into ChemDraw by hand and then converted to SMILES codes.
 
 If you use these in scientific research and need to cite them, you can use the associated DOI: [![DOI](https://zenodo.org/badge/328855986.svg)](https://zenodo.org/badge/latestdoi/328855986)
 
-![the phytos](./phytos.svg)
+![the phytos](./phytos_long.svg)

@@ -10,14 +10,14 @@ CC1=C[C@H]2C3=C(C(C(O)=O)=C(C=C3O)CCCC)OC(C)([C@@H]2CC1)C	d9-trans-thca-C4 2
 CC1=C[C@H]2C3=C(C=C(C(C(O)=O)=C3O)C)OC(C)([C@@H]2CC1)C	d9-tetrahydrocannbiorcolic acid 1
 CC1=C[C@H]2C3=C(C(C(O)=O)=C(C=C3O)C)OC(C)([C@@H]2CC1)C	d9-tetrahydrocannbiorcolic acid 2
 CC1=C[C@H]2C3=C(OC([C@@H]2CC1)(C)C)C=C(C(C(O[C@H]4C([C@@H]5CC[C@]4(C5)C)(C)C)=O)=C3O)CCCCC	beta-fenchyl d9-tetrahydrocannabinolate
-CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(C)(O2)C)C)C(O)=C1C(O[C@@H]4C(C)([C@@H]5CC[C@]4(C5)C)C)=O	alpha-fenchyl delta9-tetrahydrocannabinolate
-CCCCCC1=CC2=C(C(O)=C1C(OC3(C(C)C)CCC(C)=CC3)=O)[C@@H]4C=C(C)CC[C@H]4C(C)(C)O2	4-terpenyl delta9-tetrahydrocannabinolate
-CCCCCC1=CC2=C(C(O)=C1C(OC(C)(C3CCC(C)=CC3)C)=O)[C@@H]4C=C(C)CC[C@H]4C(C)(C)O2	alpha-terpenyl delta9-tetrahydrocannabinolate
-CCCCCC1=CC2=C(C(O)=C1C(O[C@@H]3[C@H](C)[C@@H]4CC[C@H]3C4(C)C)=O)[C@@H]5C=C(C)CC[C@H]5C(C)(C)O2	bornyl delta9-tetrahydrocannabinolate
+CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(C)(O2)C)C)C(O)=C1C(O[C@@H]4C(C)([C@@H]5CC[C@]4(C5)C)C)=O	alpha-fenchyl d9-tetrahydrocannabinolate
+CCCCCC1=CC2=C(C(O)=C1C(OC3(C(C)C)CCC(C)=CC3)=O)[C@@H]4C=C(C)CC[C@H]4C(C)(C)O2	4-terpenyl d9-tetrahydrocannabinolate
+CCCCCC1=CC2=C(C(O)=C1C(OC(C)(C3CCC(C)=CC3)C)=O)[C@@H]4C=C(C)CC[C@H]4C(C)(C)O2	alpha-terpenyl d9-tetrahydrocannabinolate
+CCCCCC1=CC2=C(C(O)=C1C(O[C@@H]3[C@H](C)[C@@H]4CC[C@H]3C4(C)C)=O)[C@@H]5C=C(C)CC[C@H]5C(C)(C)O2	bornyl d9-tetrahydrocannabinolate
 CCCCCC1=CC2=C(C(O)=C1C(O[C@@H]3[C@H](C)[C@H]4CC[C@H]3C4(C)C)=O)[C@@H]5C=C(C)CC[C@H]5C(C)(C)O2	epi-bornyl-d9-tetrahydrocannabinolate
-CCCCCC1=CC2=C(C(O)=C1C(O[C@@]3(C)CC[C@@H](C(C)C)[C@@]4([H])[C@]([H])3CCC(C)=C4)=O)[C@@H]5C=C(C)CC[C@H]5C(C)(C)O2	alpha-cadinyl delta9-tetrahydrocannabinolate
+CCCCCC1=CC2=C(C(O)=C1C(O[C@@]3(C)CC[C@@H](C(C)C)[C@@]4([H])[C@]([H])3CCC(C)=C4)=O)[C@@H]5C=C(C)CC[C@H]5C(C)(C)O2	alpha-cadinyl d9-tetrahydrocannabinolate
 CCCCCC1=CC2=C(C(O)=C1CC3=C(O)C4=C(OC(C)(C)[C@H]5[C@H]4C=C(C)CC5)C=C3CCCCC)[C@@H]6C=C(C)CC[C@H]6C(C)(C)O2	cannabisol
-CC1=C[C@H]2C3=C(C=C(CCCCC)C(C(O[C@@H](C)[C@H]4CC[C@]5(C(C4)=C(CCC5)C)C)=O)=C3O)OC(C)([C@@H]2CC1)C	gamma-eudesmyl delta9-tetrahydrocannabinolate
+CC1=C[C@H]2C3=C(C=C(CCCCC)C(C(O[C@@H](C)[C@H]4CC[C@]5(C(C4)=C(CCC5)C)C)=O)=C3O)OC(C)([C@@H]2CC1)C	gamma-eudesmyl d9-tetrahydrocannabinolate
 CCCCCC1=CC2=C(C(O)=C1)[C@@H]3CC(C)=CC[C@H]3C(C)(C)O2	d8-tetrahydrocannabinol
 CCCCCC1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)C)C(=C1C(=O)O)O	d8-tetrahydrocannabinolic acid
 CCCCCC1=CC(=C(C(=C1)O)CC=C(C)CCC=C(C)C)O	cannabigerol
@@ -29,8 +29,8 @@ CCCC1=CC(=C(C(=C1C(=O)O)O)CC=C(C)CCC=C(C)C)O	cannabigerovarinic acid
 CCCCCC1=CC(=C(C(=C1C(=O)O)O)CC=C(C)CCC=C(C)C)O	cannabinerolic acid
 C/C(CC/C=C(C)\C)=C\CC1=C(C(C(OC([C@H]2CC[C@]3(C(C2)=C(CCC3)C)C)(C)C)=O)=C(C=C1O)CCCCC)O	gamma-eudesmyl cannabigerolate
 CCCCCC1=CC(O)=C(C/C=C(CC/C=C(C)\C)\C)C(O)=C1C(OC2(C)CC[C@H](C(C)C)[C@]3([H])C2CCC(C)=C3)=O	alpha-cadinyl cannabigerolate
-C/C(CC/C=C(C)/C)=C\CC1=C(O)C=C(CCCCC)C(O)=C1OC(C)=O	5-acetyl-4-hydroxycannabigerol
-C/C(CC/C=C(C)/C)=C\CC1=C(O)C=C(O)C(OC(C)=O)=C1CCCCC	4-acetoxy-2-geranyl-5-hydroxy-3-n-pentylphenol
+C/C(CC/C=C(C)/C)=C\CC1=C(O)C=C(CCCCC)C(O)=C1OC(C)=O	5-acetyl-4-OHcannabigerol
+C/C(CC/C=C(C)/C)=C\CC1=C(O)C=C(O)C(OC(C)=O)=C1CCCCC	4-acetoxy-2-geranyl-5-OH-3-n-pentylphenol
 CCCCCC1=CC(=C(C(=C1)O)CC=C(C)CCC(C(C)(C)O)O)O	carmagerol
 CCCCCC1=CC(=C(C(=C1)O)CC=C(C)CCC=C(C)CCC=C(C)C)O	sesquicannabigerol
 C[C@]1(CC/C=C(C)/C)[C@]([H])(CC2=C(C(C(O)=O)=C(C=C2O)CCCCC)O)O1	6-7-trans-epoxycannabigerolic acid a
@@ -47,8 +47,8 @@ CCCC1=CC2=C(C=CC(O2)(C)CCC=C(C)C)C(=C1)O	cannabivarichromene
 CC1(CC/C=C(C)/C)OC2=C(C=C1)C(O)=C(C(O)=O)C(CCC)=C2	cannabichromevarinic acid
 CC1(CC/C=C(C)/C)OC2=C(C=C1)C(O)=CC(CCC)=C2	cannabichromene C3
 CC1(CC/C=C(C)/C)OC2=C(C=C1)C(O)=CC(CCC)=C2OC(C)=O	4-acetoxycannabichromene
-CC1(CCCC(C)=C)OC2=C(C=C1)C(O)=CC(CCCCC)=C2	3-hydroxy-d4-cannabichromene
-CC1(CCCC(C)=C)OC2=C(C=C1O)C(O)=CC(CCCCC)=C2	7-hydroxycannabichromane
+CC1(CCCC(C)=C)OC2=C(C=C1)C(O)=CC(CCCCC)=C2	3-OH-d4-cannabichromene
+CC1(CCCC(C)=C)OC2=C(C=C1O)C(O)=CC(CCCCC)=C2	7-OHcannabichromane
 CCCCCC1=CC(O)=C([C@@H]2C=C(C)CCC2C(C)=C)C(O)=C1	cannabidiol
 CCCCCC1=CC(O)=C([C@H]2C=C(C)CCC2C(C)=C)C(O)=C1C(O)=O	cannabidiolic acid
 CCCC1=CC(O)=C([C@H]2C=C(C)CCC2C(C)=C)C(O)=C1C(O)=O	cannabidivarinic acid
@@ -103,7 +103,7 @@ CC1(OC2=C(C(O)=CC(CCCCC)=C2)C3=C1CC[C@](C)([C@H]3O)OC(C4=C(C=C(C([C@H]5[C@@H](CC
 CC1(OC2=C(C(O)=CC(CCCCC)=C2)C3=C1CC[C@@](C)([C@@H]3O)OC(C4=C(C=C(C([C@H]5[C@@H](CCC(C)=C5)C(C)=C)=C4O)O)CCCCC)=O)C	cannabidiolic acid C5 - 9-O-cannabitriol C5 ester cis B
 OC1=C(C2=C(O3)C(C)=CC=C2C(C)=C)C3=CC(CCCCC)=C1	dehydro-cannabifuran
 OC1=C(C2=C(O3)C(C)=CC=C2C(C)C)C3=CC(CCCCC)=C1	cannabifuran
-OC1=C(C2=C(O3)C(C)=CC=C2C(C)(O)C)C3=CC(CCCCC)=C1	8-hydroxy-isohexahydrocannabivirin
+OC1=C(C2=C(O3)C(C)=CC=C2C(C)(O)C)C3=CC(CCCCC)=C1	8-OH-isohexahydrocannabivirin
 CCCCCC1=CC2=C(C(=C1)O)C(=O)C(C(O2)(C)C)CCC(=O)C	cannabichromanone C5
 CCCC1=CC2=C(C(=C1)O)C(=O)C(C(O2)(C)C)CCC(=O)C	cannabichromanone C3
 CC1(CC2)OC3=CC(CCCCC)=CC4=C3C(C2C(C)(C)O4)C1	cannabicitran
@@ -118,8 +118,8 @@ O=C1[C@](C(C)(OC2=C1C(O)=CC(CCCCC)=C2)C)([H])CCC(C(C)=O)=O	cannabichromanone c
 CCCCC1=CC(O/C(C)=C\C[C@](C(C)(C)O2)([H])C3=O)=C3C2=C1	cannabichromanone d
 CCCCCC1=CC2=C3C([C@@](C(C)(O2)C)([H])CCC(C)=O)=COC3=C1	7r-cannabicourmarone
 CC(C)([C@](C1=CO2)([H])CCC(C)=O)OC3=C1C2=C(C(CCCCC)=C3)C(O)=O	7r-cannabicourmaronic acid
-OC1=CC(O)=C(OC(C)=O)C(CCCCC)=C1C/C=C(C)/CC/C=C(C)/C	4-acetoxy-2-geranyl-5-hydroxy-3-n-pentylphenol
-O=C1C(C/C=C(C)/CC/C=C(C)/C)=C(CCCCC)C(C(O)=C1)=O	2-geranyl-5-hydroxy-3-n-pentyl-1,4-benzoquinone
+OC1=CC(O)=C(OC(C)=O)C(CCCCC)=C1C/C=C(C)/CC/C=C(C)/C	4-acetoxy-2-geranyl-5-OH-3-n-pentylphenol
+O=C1C(C/C=C(C)/CC/C=C(C)/C)=C(CCCCC)C(C(O)=C1)=O	2-geranyl-5-OH-3-n-pentyl-1,4-benzoquinone
 O=C1C(C/C=C(C)/CC/C=C(C)/C)=C(OC(C)=O)C(C(CCCCC)=C1)=O	5-acetoxy-6-geranyl-3-n-pentyl-1,4-benzoquinone
 C=C1C2=C(C(O3)=C(C)C=C2)C4=C3C=C(CCCCC)C=C4OC1	cannabioxepane
 CCCCC[C@](O)([H])[C@](O)([H])[C@]1([H])C=CC[C@]2([H])N1CCCNCCCCNC(C2)=O	cannabisativine
